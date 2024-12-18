@@ -8,6 +8,7 @@ Fernandes, K., Vinagre, P., Cortez, P., & Sernadela, P. (2015). Online News Popu
 Content creators need a simple way to predict if their articles will achieve high engagement before publication.
 
 * Binary prediction: Will the article be popular (high shares) or not?
+    * If greater than 14,0000 shares and then considered popular. The Orignal paper finds Random Forest modelling the best performing relative to AdaBoost. SVM, KNN & NB
 * Understand basic factors that influence article success
 * Get clear yes/no guidance for content decisions
 
